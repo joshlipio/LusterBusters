@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d723f84c46cb629488786bb9bcc24ddf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Robotronics
+  fontNames:
+  - Robotronics
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60d42760c915f9b459c21c8b126a66ef, type: 3}
+  - {fileID: 12800000, guid: 13b53a654b56d6e468d44543bed79520, type: 3}
+  - {fileID: 12800000, guid: 0932f08f0c137c54e9d7cc2d1f56f783, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
